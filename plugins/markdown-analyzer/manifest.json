@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "description": "AI-powered markdown analysis. Open any note in your vault and get a structured analysis in a side panel based on a specific focus.",
+  "authorUrl": "",
+  "id": "markdown-analyzer",
+  "author": "Luciano Astudillo",
+  "minAppVersion": "0.15.0",
+  "name": "Markdown Analyzer",
+  "isDesktopOnly": false
+}

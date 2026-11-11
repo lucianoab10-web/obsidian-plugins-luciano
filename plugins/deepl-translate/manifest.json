@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "description": "Traduce el texto seleccionado usando la API de DeepL desde el menú de clic derecho, con vista previa antes de reemplazar.",
+  "authorUrl": "",
+  "id": "deepl-translate",
+  "author": "Luciano Astudillo Baeza",
+  "minAppVersion": "0.15.0",
+  "name": "DeepL Translate",
+  "isDesktopOnly": false
+}

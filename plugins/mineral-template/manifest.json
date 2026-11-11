@@ -1,0 +1,9 @@
+{
+  "version": "1.1.0",
+  "description": "Aplica cualquier archivo Markdown como plantilla al añadir una etiqueta, con reglas configurables desde los ajustes.",
+  "id": "mineral-template",
+  "author": "Luciano Astudillo Baeza",
+  "minAppVersion": "1.4.0",
+  "name": "Mineral Template",
+  "isDesktopOnly": false
+}

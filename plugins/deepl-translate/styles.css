@@ -1,0 +1,40 @@
+.deepl-translate-modal {
+	max-width: 600px;
+}
+
+.deepl-translate-label {
+	margin-bottom: 4px;
+	font-weight: 600;
+	opacity: 0.85;
+}
+
+.deepl-translate-original {
+	background: var(--background-secondary);
+	border-radius: 6px;
+	padding: 10px 12px;
+	margin-bottom: 16px;
+	white-space: pre-wrap;
+	max-height: 150px;
+	overflow-y: auto;
+	font-size: var(--font-text-size);
+}
+
+.deepl-translate-translated {
+	width: 100%;
+	min-height: 150px;
+	resize: vertical;
+	padding: 10px 12px;
+	border-radius: 6px;
+	border: 1px solid var(--background-modifier-border);
+	background: var(--background-primary);
+	color: var(--text-normal);
+	font-family: var(--font-text);
+	font-size: var(--font-text-size);
+	margin-bottom: 16px;
+}
+
+.deepl-translate-buttons {
+	display: flex;
+	justify-content: flex-end;
+	gap: 8px;
+}

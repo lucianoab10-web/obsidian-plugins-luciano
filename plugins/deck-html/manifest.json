@@ -1,0 +1,10 @@
+{
+  "version": "1.1.0",
+  "description": "Crea presentaciones HTML (estilo PPT/Canva) a partir de notas del vault y sus imágenes, con la API de Claude y tu guía de marca.",
+  "authorUrl": "",
+  "id": "deck-html",
+  "author": "Luciano Astudillo",
+  "minAppVersion": "1.4.0",
+  "name": "Deck HTML",
+  "isDesktopOnly": false
+}

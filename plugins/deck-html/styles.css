@@ -1,0 +1,30 @@
+/* Deck HTML */
+.dh-modal { width: 640px; max-width: 94vw; }
+.dh-hint { color: var(--text-muted); font-size: var(--font-ui-small); margin: 0 0 10px; }
+.dh-search { width: 100%; margin-bottom: 6px; }
+.dh-list { max-height: 220px; overflow-y: auto; border: 1px solid var(--background-modifier-border); border-radius: var(--radius-s); padding: 2px; }
+.dh-row { display: flex; align-items: center; gap: 8px; padding: 4px 8px; border-radius: var(--radius-s); cursor: pointer; }
+.dh-row:hover { background: var(--background-modifier-hover); }
+.dh-row input { pointer-events: none; margin: 0; }
+.dh-row-label { display: flex; flex-direction: column; min-width: 0; }
+.dh-name { font-weight: 500; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.dh-dir { color: var(--text-faint); font-size: var(--font-ui-smaller); }
+.dh-count { margin: 10px 0 4px; font-size: var(--font-ui-small); color: var(--text-muted); }
+.dh-selected { display: flex; flex-direction: column; gap: 2px; margin-bottom: 8px; }
+.dh-sel-row { display: flex; align-items: center; gap: 6px; padding: 2px 6px; background: var(--background-secondary); border-radius: var(--radius-s); }
+.dh-sel-n { color: var(--text-faint); width: 22px; text-align: right; }
+.dh-sel-name { flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.dh-mini { padding: 0 8px; height: 22px; line-height: 1; box-shadow: none; }
+.dh-label { font-weight: 600; margin: 8px 0 4px; }
+.dh-instr { width: 100%; resize: vertical; margin-bottom: 8px; }
+.dh-path { font-family: var(--font-monospace); font-size: var(--font-ui-smaller); color: var(--text-muted); word-break: break-all; margin: 2px 0; }
+.dh-warn { color: var(--text-warning, var(--text-muted)); font-size: var(--font-ui-small); padding-left: 18px; }
+.dh-brand-selection .setting-item-control { flex-wrap: wrap; min-width: 0; }
+.dh-brand-selection .setting-item-info { min-width: 0; }
+.dh-brand-selection .setting-item-description { overflow-wrap: anywhere; }
+.dh-brand-select { max-width: 280px; width: 100%; text-overflow: ellipsis; }
+@media (max-width: 600px) {
+  .dh-brand-selection { flex-direction: column; align-items: stretch; gap: 8px; }
+  .dh-brand-selection .setting-item-control { justify-content: flex-start; }
+  .dh-brand-select { max-width: 100%; }
+}

@@ -1,0 +1,4 @@
+node_modules/
+test/.*.cjs
+tools/SymbolsRaw.ttf
+data.json

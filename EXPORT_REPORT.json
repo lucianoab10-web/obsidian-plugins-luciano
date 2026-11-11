@@ -1,0 +1,138 @@
+{
+  "status": "verified_for_private_repository",
+  "written": true,
+  "plugins": [
+    {
+      "id": "autosort",
+      "folder": "autosort",
+      "file_count": 2,
+      "redactions": {},
+      "blockers": {},
+      "excluded_local_settings": true,
+      "local_credential_value_count": 0,
+      "reference_exclusions": {},
+      "file_diagnostics": []
+    },
+    {
+      "id": "brand-guide-editor",
+      "folder": "brand-guide-editor",
+      "file_count": 4,
+      "redactions": {},
+      "blockers": {},
+      "excluded_local_settings": true,
+      "local_credential_value_count": 0,
+      "reference_exclusions": {},
+      "file_diagnostics": []
+    },
+    {
+      "id": "deck-html",
+      "folder": "deck-html",
+      "file_count": 3,
+      "redactions": {},
+      "blockers": {},
+      "excluded_local_settings": true,
+      "local_credential_value_count": 1,
+      "reference_exclusions": {},
+      "file_diagnostics": []
+    },
+    {
+      "id": "deepl-translate",
+      "folder": "deepl-translate",
+      "file_count": 10,
+      "redactions": {},
+      "blockers": {},
+      "excluded_local_settings": true,
+      "local_credential_value_count": 1,
+      "reference_exclusions": {},
+      "file_diagnostics": []
+    },
+    {
+      "id": "markdown-analyzer",
+      "folder": "markdown-analyzer",
+      "file_count": 2,
+      "redactions": {},
+      "blockers": {},
+      "excluded_local_settings": true,
+      "local_credential_value_count": 1,
+      "reference_exclusions": {},
+      "file_diagnostics": []
+    },
+    {
+      "id": "mineral-template",
+      "folder": "mineral-template",
+      "file_count": 3,
+      "redactions": {},
+      "blockers": {},
+      "excluded_local_settings": true,
+      "local_credential_value_count": 0,
+      "reference_exclusions": {},
+      "file_diagnostics": []
+    },
+    {
+      "id": "paper-review",
+      "folder": "paper-review-plugin",
+      "file_count": 2,
+      "redactions": {},
+      "blockers": {},
+      "excluded_local_settings": true,
+      "local_credential_value_count": 1,
+      "reference_exclusions": {},
+      "file_diagnostics": []
+    },
+    {
+      "id": "pdf-input-tags",
+      "folder": "pdf-input-tags",
+      "file_count": 4,
+      "redactions": {},
+      "blockers": {},
+      "excluded_local_settings": true,
+      "local_credential_value_count": 0,
+      "reference_exclusions": {},
+      "file_diagnostics": []
+    },
+    {
+      "id": "synthesis",
+      "folder": "synthesis",
+      "file_count": 31,
+      "redactions": {},
+      "blockers": {},
+      "excluded_local_settings": true,
+      "local_credential_value_count": 0,
+      "reference_exclusions": {
+        "proven_local_secret_reference_values_omitted": 1
+      },
+      "file_diagnostics": []
+    },
+    {
+      "id": "wikilinked",
+      "folder": "wikilinked",
+      "file_count": 2,
+      "redactions": {},
+      "blockers": {},
+      "excluded_local_settings": true,
+      "local_credential_value_count": 0,
+      "reference_exclusions": {},
+      "file_diagnostics": []
+    }
+  ],
+  "external_ast_validation_attested": true,
+  "global_local_credential_value_count": 3,
+  "limitations": [
+    "Heuristic detection does not prove absence of secrets.",
+    "Validate JavaScript syntax and functionality before publishing."
+  ],
+  "prepared_date": "2026-11-10",
+  "repository_visibility_requested": "private",
+  "verification": {
+    "selected_plugins": 10,
+    "excluded_settings_files": 32,
+    "javascript_typescript_files_parsed": 30,
+    "parse_errors": 0,
+    "unresolved_credential_findings": 0,
+    "known_credential_variant_matches": 0,
+    "published_plugin_files_compared_to_originals": 63,
+    "plugin_content_changes_excluding_line_endings_and_manifest_formatting": 0,
+    "original_plugins_modified": false,
+    "runtime_test_in_obsidian_performed": false
+  }
+}

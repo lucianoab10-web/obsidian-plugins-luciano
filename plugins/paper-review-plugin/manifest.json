@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "description": "AI-powered scientific paper review. Open any PDF in your vault and get a structured academic review in a side panel, with one-click save to a note.",
+  "authorUrl": "",
+  "id": "paper-review",
+  "author": "Luciano Astudillo",
+  "minAppVersion": "0.15.0",
+  "name": "Paper Review",
+  "isDesktopOnly": false
+}

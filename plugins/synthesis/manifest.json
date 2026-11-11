@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "description": "Genera un PDF de estudio con la API de Claude a partir de las notas que elijas, usando solo su contenido (texto e imágenes).",
+  "id": "synthesis",
+  "author": "Luciano Astudillo Baeza",
+  "minAppVersion": "1.11.4",
+  "name": "Synthesis",
+  "isDesktopOnly": false
+}

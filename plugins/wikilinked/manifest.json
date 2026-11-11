@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "description": "Wikilink or embed the active note into any other note with one click. Supports container notes with code blocks.",
+  "authorUrl": "",
+  "id": "wikilinked",
+  "author": "Luciano Astudillo Baeza",
+  "minAppVersion": "1.0.0",
+  "name": "Wikilinked",
+  "isDesktopOnly": false
+}

@@ -1,0 +1,33 @@
+.bge-root {padding:24px 20px 48px; overflow:auto; --bge-border:var(--background-modifier-border);}
+.bge-root h2 {font-size:26px;margin:8px 0;letter-spacing:-.7px;}
+.bge-eyebrow {font-size:10px;letter-spacing:1.4px;color:var(--text-accent);font-weight:700;}
+.bge-path,.bge-status,.bge-hint {font-size:12px;color:var(--text-muted);overflow-wrap:anywhere;}
+.bge-tools {display:flex;gap:8px;flex-wrap:wrap;margin:16px 0;}
+.bge-preview {container-type:inline-size;}
+.bge-slide {position:relative;aspect-ratio:16/9;border-radius:10px;padding:8% 8% 6%;overflow:hidden;box-shadow:0 3px 18px #0002;container-type:inline-size;}
+.bge-slide h3 {line-height:1.12;margin:5% 0 3%;max-width:90%;font-weight:700;}
+.bge-slide p {line-height:1.45;max-width:86%;margin:3% 0;}
+.bge-slide-tag {font-size:3cqw;letter-spacing:.1em;text-transform:uppercase;}
+.bge-slide-bar {width:12%;height:3px;}
+.bge-slide small {font-size:2.2cqw;letter-spacing:.1em;}
+.bge-slide img {position:absolute;right:5%;bottom:5%;max-width:16%;max-height:16%;object-fit:contain;}
+.bge-dark-swatch {padding:8px 12px;font-size:11px;margin-top:6px;border-radius:6px;}
+.bge-contrast {font-size:12px;line-height:1.4;color:var(--text-muted);}
+.bge-group {border-top:1px solid var(--bge-border);margin-top:12px;padding-top:12px;}
+.bge-group summary {font-size:15px;font-weight:600;cursor:pointer;padding:5px 0;}
+.bge-group-body {padding:8px 0;}
+.bge-group-body p {font-size:12px;color:var(--text-muted);}
+.bge-field {margin:12px 0;}
+.bge-field label {display:block;font-size:12px;color:var(--text-muted);}
+.bge-field input,.bge-field textarea {display:block;width:100%;margin-top:6px;color:var(--text-normal);}
+.bge-field textarea {min-height:110px;resize:vertical;line-height:1.5;}
+.bge-color {display:flex;align-items:center;gap:10px;margin:12px 0;font-size:13px;}
+.bge-color input[type=color] {width:36px;height:36px;border:0;padding:0;cursor:pointer;flex-shrink:0;}
+.bge-color small {margin-left:auto;color:var(--text-muted);font-size:10px;}
+.bge-presets {display:flex;gap:6px;flex-wrap:wrap;margin:14px 0;}
+.bge-presets button {height:auto;padding:8px;display:flex;gap:8px;font-size:11px;}
+.bge-swatches {display:flex;align-items:center;}
+.bge-swatches span {width:9px;height:9px;border-radius:50%;display:inline-block;}
+.bge-review {width:min(760px,95vw);}
+.bge-markdown {white-space:pre-wrap;max-height:55vh;overflow:auto;font-size:12px;}
+.bge-review button {margin:8px 8px 0 0;}

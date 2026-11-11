@@ -1,0 +1,5 @@
+.pdf-input-tags-settings .setting-item-control input[type="text"] { max-width: 220px; }
+.pdf-input-tags-settings .pdf-input-tags-result { padding: 10px 0; border-bottom: 1px solid var(--background-modifier-border); }
+.pdf-input-tags-settings .pdf-input-tags-result strong { overflow-wrap: anywhere; }
+.pdf-input-tags-settings .pdf-input-tags-result pre { white-space: pre-wrap; max-height: 150px; overflow: auto; padding: 8px; }
+.pdf-input-tags-settings .pdf-input-tags-status { color: var(--text-accent); }

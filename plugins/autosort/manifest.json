@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "description": "Mueve automáticamente archivos nuevos a subcarpetas según su tipo, dentro de las carpetas vigiladas que configures.",
+  "authorUrl": "",
+  "id": "autosort",
+  "author": "Luciano Astudillo Baeza",
+  "minAppVersion": "1.0.0",
+  "name": "Autosort",
+  "isDesktopOnly": false
+}

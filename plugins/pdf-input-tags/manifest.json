@@ -1,0 +1,9 @@
+{
+  "version": "0.2.0",
+  "description": "Lee códigos y fechas del OCR, renombra PDFs y aplica etiquetas con Wikilinked para activar AutoSort.",
+  "id": "pdf-input-tags",
+  "author": "Luciano Astudillo Baeza",
+  "minAppVersion": "1.4.0",
+  "name": "PDF Input Tags",
+  "isDesktopOnly": false
+}

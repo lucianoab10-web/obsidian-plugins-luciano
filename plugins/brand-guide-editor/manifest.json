@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "description": "Edita tu guía de marca con colores, fuentes y una vista previa, y guarda un Markdown limpio para Deck HTML.",
+  "id": "brand-guide-editor",
+  "author": "Luciano",
+  "minAppVersion": "1.7.2",
+  "name": "Editor visual de marca",
+  "isDesktopOnly": false
+}

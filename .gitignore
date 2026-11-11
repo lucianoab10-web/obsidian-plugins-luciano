@@ -1,0 +1,22 @@
+# Ajustes personales de Obsidian y sus copias
+**/data*.json
+**/.obsidian/
+
+# Credenciales y configuración local
+**/.env
+**/.env.*
+!**/.env.example
+**/credentials*.json
+**/secrets*.json
+**/*.pem
+**/*.key
+
+# Dependencias, cachés y registros
+**/node_modules/
+**/.cache/
+**/__pycache__/
+**/*.pyc
+**/*.log
+**/*.map
+.DS_Store
+Thumbs.db
